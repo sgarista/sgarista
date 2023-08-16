@@ -2,6 +2,8 @@
 
 Я **Игорь Литвинов**, разработчик на Swift.
 
+Можете ознакомиться с [моим резюме](https://github.com/sgarista/sgarista/blob/main/CV_Litvinov_iOS_Developer.pdf)
+
 
 ### Вот что я умею:
 
