@@ -1,16 +1,19 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**sgarista/sgarista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Игорь Литвинов**, разработчик на Swift.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Вот что я умею:
+
+* Мое приложение Relaxim в [AppStore](https://apps.apple.com/us/app/relaxim/id6456844054)
+
+* Курсовая работа [Трекер привычек](https://github.com/sgarista/MyHabits)
+
+* Домашние работы по интерфейсам приложений лежат [здесь](https://github.com/sgarista/ios-homeworks/tree/develop-iosui)
+
+* Домашние работы по промышленной разработке лежат [здесь](https://github.com/sgarista/ios-homeworks/tree/develop-iosint)
+
+
+### Сертификаты:
+
+* 
