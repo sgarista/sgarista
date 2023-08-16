@@ -16,4 +16,12 @@
 
 ### Сертификаты:
 
-* 
+* Работа с Git [Посмотреть](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/certificate_git.pdf)
+
+* Основы Swift [Посмотреть](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/certificate_osnovi.pdf)
+
+* Основы Swift Advanced [Посмотреть](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/certificate_advance.pdf)
+
+* Интерфейс приложений [Посмотреть](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/certificateUI.pdf)
+
+
