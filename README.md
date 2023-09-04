@@ -26,4 +26,6 @@
 
 * Интерфейс приложений [Посмотреть](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/certificateUI.pdf)
 
+* Английский язык B2 Upper Intermediate [Посмотреть](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/EFSETCertificate.pdf)
+
 
