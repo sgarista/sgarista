@@ -1,3 +1,5 @@
+![](https://avatars.githubusercontent.com/u/124901982?v=4)
+
 ### Hello!
 
 My name is **Igor Litvinov**. I am a Swift developer.
