@@ -30,4 +30,9 @@ You can see my [CV](http://igor-ios.ru/iOS-developer_Литвинов_Игорь
 
 * English B2 Upper Intermediate [view](https://github.com/sgarista/sgarista/blob/main/%D1%81ertificates/EFSETCertificate.pdf)
 
+### Languages:
+
+- Russian (native)
+- Ukrainian (proficient level)
+- English (B2 Upper Intermediate)
 
