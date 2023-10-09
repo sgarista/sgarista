@@ -7,6 +7,8 @@
 
 ### Вот что я умею:
 
+* Мое приложение 7ft в [AppStore](https://apps.apple.com/ru/app/7ft/id6468911605)
+
 * Мое приложение Relaxim в [AppStore](https://apps.apple.com/us/app/relaxim/id6456844054)
 
 * Курсовая работа [Трекер привычек](https://github.com/sgarista/MyHabits)
