@@ -7,6 +7,8 @@
 
 ### Вот что я умею:
 
+* Мое приложение SETS 6000.7ft в [AppStore](https://apps.apple.com/us/app/sets-6000-7ft/id6469705729)
+  
 * Мое приложение 7ft в [AppStore](https://apps.apple.com/ru/app/7ft/id6468911605)
 
 * Мое приложение Relaxim в [AppStore](https://apps.apple.com/us/app/relaxim/id6456844054)
